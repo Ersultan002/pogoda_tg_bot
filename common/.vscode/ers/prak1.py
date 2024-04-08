@@ -1,0 +1,6 @@
+a = int(input("San engiziniz: "))
+b = int(input("San engiziniz: "))
+c = int(input("San engiziniz: "))
+d = int(input("San engiziniz: "))
+audan = (a * b) + (c * d)
+print("Audan: " , audan)
